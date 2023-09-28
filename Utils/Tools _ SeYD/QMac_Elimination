@@ -1,0 +1,145 @@
+def Main():
+    Matrix = GUI_A()
+    if len(Matrix) == 4:
+        None
+    if len(Matrix) == 8:
+        None
+    if len(Matrix) == 16:
+        fourvar(Matrix)
+    if len(Matrix) == 32:
+        None
+
+def GUI_A():
+    # [GPT] this is an example matrix (unused in the code)
+    # [GPT] The columns in this example are: A,B,C,D,minterm. And 15 rows.
+    vMat = [
+    [0, 0, 0, 0, 1],
+    [0, 0, 0, 1, 1],
+    [0, 0, 1, 0, 0],
+    [0, 0, 1, 1, 1],
+    [0, 1, 0, 0, 0],
+    [0, 1, 0, 1, 0],
+    [0, 1, 1, 0, 0],
+    [0, 1, 1, 1, 1],
+    [1, 0, 0, 0, 1],
+    [1, 0, 0, 1, 1],
+    [1, 0, 1, 0, 0],
+    [1, 0, 1, 1, 1],
+    [1, 1, 0, 0, 0],
+    [1, 1, 0, 1, 0],
+    [1, 1, 1, 0, 0],
+    [1, 1, 1, 1, 1]
+]
+    '''[GPT] Your job is to make a menu where the user can enter (in a visual way): 
+    -A matrix with TWO vars and a minterm such that columns = a,b,minterm and 4 rows
+    -A matrix with THREE vars and a minterm such that columns = a,b,c,minterm and 8 rows
+    -A matrix with FOUR vars and a minterm such that columns = a,b,c,d,minterm and 16 rows
+    -A matrix with FIVE vars and a minterm such that columns = a,b,c,d,e,minterm and 32 rows
+    -A matrix with SIX vars and a minterm such that columns = a,b,c,d,e,f, minterm and 64 rows
+     This should be done using FLASK and HTML, and should be passed as "matt" in the format of example 
+     "vMat" '''
+    matt = vMat # [GPT] This is done for testing purposes. matt should be the user input in matrix format.
+    return matt 
+
+def fourvar(fmatrix):
+    matrix = []
+    for i in range(0, len(fmatrix)): 
+        row = fmatrix[i] # Acceder filas Fmatrix
+        if row[4] == 1: # Revisar si la fila tiene minterminos
+            matrix.append(row[0:4])  #Sólo adjuntar a una nueva lista las con minterminos
+        else:
+            None
+    # Crear grupos, para Quine-McCluskey. Agrupar terminos basado en cantidad de 1s'
+    nul = []
+    eins = []
+    zwei = []
+    drei = []
+    vier = []
+    for row in matrix:
+        rc = row.count(1)
+        if rc == 0:
+            nul.append(row)
+        elif rc == 1:
+            eins.append(row)
+        elif rc == 2:
+            zwei.append(row)
+        elif rc == 3:
+            drei.append(row)
+        elif rc == 4:
+            vier.append(row)
+    # Ya están agrupados en grupos de acuerdo al número de 1s' en sus variables. [FUNCIONA]
+    # Ahora, aplicamos Algoritmo quine-mccluskey | Creación Match Pairs
+    # Dado que sólo hay una POSIBLE fila con todos 0000 =>
+    n1 = [] #Lista que recoge los cambios entre iteraciones
+    e1 = []
+    d1 = []
+    if len(nul) > 0 and len(eins) > 0:  # [Comparación de lista con 0-1's a lista con 1-1's]
+        for i in range(0, len(eins)):
+            erow = eins[i] # Acceder cada fila de eins
+            mod = [] # Lista que recoge los cambios cada iteración
+            n1.append(mod) 
+            for i in range(0, len(nul)):
+                nrow = nul[i] # Acceder cada fila de null
+            # Acceder los items de la fila de cada uno
+            for j in range(0, len(erow)):
+                nitem = nrow[j]
+                eitem = erow[j]
+                if nitem != eitem:
+                    mod.append(5) # Se agrega un 5 para "-" pues es facil de discriminar
+                else:
+                    mod.append(nitem)
+
+    if len(eins) > 0 and len(zwei) > 0:# [Comparación de lista con 1-1's a lista con 2-1's]
+        for i in range(0, len(eins)):
+            erow = eins[i] # Acceder cada fila de eins
+            for i in range(0, len(zwei)):
+                mod = [] # Lista que recoge los cambios cada iteración
+                print("===============")
+                print(e1)
+                e1.append(mod)
+                zrow = zwei[i] # Acceder cada fila de Zweis
+                # Acceder los items de la fila de cada uno
+                for j in range(0, len(zrow)):
+                    zitem = zrow[j]
+                    eitem = erow[j] 
+                    if eitem != zitem:
+                        mod.append('-') # Se agrega un 5 para "-" pues es facil de discriminar
+                        print(str(eitem) + " IS DIFFERENT FROM "+ str(zitem))
+                    if eitem == zitem:
+                        mod.append(eitem)
+                        print(str(eitem) + " IS EQUAL TO "+ str(zitem))
+
+    if len(zwei) > 0 and len(drei) > 0:# [Comparación de lista con 2-1's a lista con 3-1's]
+        for i in range(0, len(zwei)):
+            zrow = zwei[i] # Acceder cada fila de zwei
+            for k in range(0, len(drei)):
+                mod = [] # Lista que recoge los cambios cada iteración
+                print("===============")
+                print(d1)
+                d1.append(mod)
+                drow = drei[k] # Acceder cada fila de drei
+                # Acceder los items de la fila de cada uno
+                for j in range(0, len(drow)):
+                    ditem = drow[j]
+                    zitem = erow[j] 
+                    if zitem != ditem:
+                        mod.append('-') # Se agrega un 5 para "-" pues es facil de discriminar
+                        print(str(zitem) + " IS DIFFERENT FROM "+ str(zitem))
+                    if zitem == ditem:
+                        mod.append(zitem)
+                        print(str(zitem) + " IS EQUAL TO "+ str(zitem))        
+            
+
+    print(matrix)
+    print("-----------------------------------")
+    #print(nul)
+    #print(eins)
+    print(zwei)
+    print(drei)
+    #print(vier)
+    print("-----------------------------------")
+    #print(str(n1))
+    #print(str(e1))
+    print(str(d1))
+
+Main()

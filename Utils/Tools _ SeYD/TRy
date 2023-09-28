@@ -1,0 +1,24 @@
+# Define matrices A and B
+A = [['A', 'A', 'A', 'B'], ['B', 'A', 'A', 'A']]
+B = [['A', 'A', 'A', 'A']]
+
+# Extract the internal matrix from B
+internal_matrix_B = B[0]
+
+# Initialize a result matrix with the same content as internal_matrix_B
+result_matrix = [row[:] for row in internal_matrix_B]
+
+# Iterate through the rows and columns of the internal matrix
+for i in range(len(internal_matrix_B)):
+    for j in range(len(internal_matrix_B[i])):
+        element_B = internal_matrix_B[i][j]
+        element_A1 = A[0][j]
+        element_A2 = A[1][j]
+
+        # Compare the element with both matrices of A
+        if element_B != element_A1 or element_B != element_A2:
+            result_matrix[i][j] = '*'
+
+# Print the modified result matrix
+for row in result_matrix:
+    print(row)
