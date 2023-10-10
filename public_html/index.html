@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Felipe Gutiérrez</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Rubik', sans-serif;
+            background-color: #f3f3f3;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .header {
+            text-align: center;
+            background-color: #f3f3f3;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .name {
+            font-size: 48px; /* Increased font size */
+            font-weight: 500;
+            color: #000;
+            background-color: #f3f3f3; /* Background color */
+            padding: 10px; /* Added padding */
+            margin-bottom: 20px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            max-width: 800px;
+        }
+
+        .box {
+            width: calc(50% - 20px);
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: box-shadow 0.3s, transform 0.3s;
+            text-align: center;
+            margin-bottom: 20px;
+            height: 220px;
+        }
+
+        .box:hover {
+            box-shadow: 0 8px 12px rgba(33, 236, 243, 0.2);
+            transform: translateY(-5px);
+        }
+
+.box-title {
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+    margin-top: 10px; /* Add spacing between the logo and title */
+	margin-bottom: 10px;
+	
+}
+
+.box-title img {
+    width: 100px; /* Adjust the logo size as needed */
+    vertical-align: middle;
+    margin-right: 5px;
+	margin-top: 30px;
+}
+
+.box-link {
+    text-decoration: none; /* Remove underlines from the link */
+    color: #000; /* Set link color to black or your preferred color */
+}
+
+		.box-content ul {
+    list-style-type: none;
+    padding: 0; /* Remove default padding from the <ul> element */
+}
+
+.box-content li {
+    margin-bottom: 10px; /* Add margin space between list items */
+}
+
+		
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="name">Felipe Gutiérrez</div>
+    </div>
+    <div class="container">
+        <div class="box">
+            <div class="box-title">About me</div>
+            <div class="box-content">Electronics Engieneering Student @ Universidad de los Andes, Bogotá. Master of FDM 3D printing and a newbie to programming.</div>
+        </div>
+        <div class="box">
+			<a href="https://github.com/fgutep" class="box-link">
+            <div class="box-title">
+				My Github
+                <img src="github-mark.svg" alt="GitHub Logo"> 
+            </div>
+        </div>
+        <div class="box">
+            <div class="box-title">Currently working on</div>
+            <div class="box-content"> 
+				
+                <ul>
+                    <li><a href="#">16-AX Accel. Alarm System</a></li>
+                    <li><a href="#">Learning JavaScript & Web App dev.</a></li>
+					<li><a href="#">A cool pulley lamp</a></li>
+                </ul>
+				
+            </div>
+        </div>
+        <div class="box">
+			<a href="https://discordapp.com/users/578063184313974814" class="box-link">
+            <div class="box-title">
+				Contact me
+                <img src="discord-mark-black.svg" alt="Discord Logo"> 
+            </div>
+        </div>
+    </div>
+</body>
+</html>
