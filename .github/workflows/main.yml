@@ -14,4 +14,4 @@ jobs:
         server: ftp.fgutep.xyz
         username: ${{ secrets.HOSTINGER_FTP_USERNAME }}
         password: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
-        local-dir: public_html
+        local-dir: public_html/
