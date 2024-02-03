@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "6dba3a095bcc3dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ee813bbf171dddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e7bc6b08eedf4ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da87361ef9069759",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce32b74d8bce193d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea20a3b7a96e8be7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f6b77727040df2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Herrramientas-Creación-Server",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39696e9f420f0842",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38521b70b2f9b9d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc3c94aee3e80ae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b3822f72d57b4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3929974194b5d425",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6974c66e24e29a3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "760b3e34d083e5fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "5e7bc6b08eedf4ce",
+  "lastOpenFiles": [
+    "Fundamentos en Redes/Punto 3 Examen.md",
+    "Perso/Docs.md.md",
+    "Untitled.md",
+    "Perso",
+    "Fundamentos en Redes/Media/P3_6.png",
+    "Fundamentos en Redes/Media/P3_1.png",
+    "Fundamentos en Redes/Media/P3_5.png",
+    "Fundamentos en Redes/Media/P3_4.png",
+    "Fundamentos en Redes/Media/P3_3.png",
+    "Fundamentos en Redes/Media/P3_2.png",
+    "Comparación encabezados.md",
+    "Fundamentos en Redes/Examen 1.md",
+    "Fundamentos en Redes/Cálculos para RTT de TCP.md",
+    "desktop.ini",
+    "Fundamentos en Redes/UDP y TCP.md",
+    "Fundamentos en Redes/Fundamentos en Redes.md",
+    "Fundamentos en Redes/Métodos RTT y Throughput.md",
+    "Fundamentos en Redes/OSI Model.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Sistemas electronicos y Digitales/Verilog - Descripción de un full-adder.md",
+    "Sistemas electronicos y Digitales/Elementos memoria y sequenciales Latches, flip-flops, etc.md",
+    "Sistemas electronicos y Digitales/Sistemas E.Digit.md",
+    "Sistemas electronicos y Digitales/Lab - Instrucción Quartus.md",
+    "{D06C533D-DFFE-4775-860B-58C504CC9F7A}.tmp",
+    "~$Redes RTT y DevRTT.tmp",
+    "Sistemas electronicos y Digitales/WorkShop 001 - Solución Clase.md",
+    "Sistemas electronicos y Digitales/Media/Quartus1.png",
+    "General - ToDo.canvas",
+    "Sistemas electronicos y Digitales/Media/Quartus2.png",
+    "Sistemas electronicos y Digitales/Media/1_3B.png",
+    "Sistemas electronicos y Digitales/Media/3D_MU.png",
+    "IMG_0816 1.heic",
+    "IMG_0815 - Copy.HEIC.heic",
+    "IMG_0814.HEIC.heic",
+    "Sistemas electronicos y Digitales/Media",
+    "Sistemas electronicos y Digitales",
+    "Verilog - Descripción de un full-adder c2f076eb83f24fac9b2e364f6b79ff5b.md",
+    "You have 10 days to live 93c71e9904264a01b77717fd5893ead2.md",
+    "Yorobotics Impresión de prueba 46baf93771c840e49ab5e69b259b49f2.md",
+    "WorkShop 002 0d10e98df141412f8f1e1fb840527e4e.md",
+    "Who Will Teach Silicon Valley to Be Ethical e980df9400c547bdbcb7835dc32e4c22.md",
+    "Who Will Teach Silicon Valley to Be Ethical d340f4dda6a34cc0ac6b11e2f9b78f61.md",
+    "Funding for Camping Transportation a926a034dddc49d1bdf6f511e0c3181b.md",
+    "Estudio parcial 1 límites e1770010094f49b18fc97cedb00415cf.md",
+    "ALL43DP crear promoción y nuevas piezas de promoc 558069a585a848b58044243dd3ba030d.md",
+    "ALL43DP crear video promocional para TkTk cb0443de3b4f4e20a422d64f7b90b2eb.md",
+    "ALL43DP Reach out to creators ce9c807e32014caf92683d274d005a2b.md",
+    "Chapter_1_(1).pdf"
+  ]
+}
