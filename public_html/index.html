@@ -1,198 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Felipe Gutiérrez</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: 'Roboto Mono', monospace;
-            background-color: #1e1e1e; /* Dark background color */
-            color: #ffffff; /* Light text color */
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-        }
-
-        .logo {
-            border-radius: 50%;
-            margin: 0;
-        }
-
-        .name {
-            font-size: 48px;
-            font-weight: 500;
-            color: #ffffff; /* Light text color */
-            background-color: #1e1e1e;
-            padding: 10px;
-            margin-bottom: 20px;
-            margin-top: -30px;
-        }
-
-        h2 {
-            font-size: 20px;
-            font-weight: 600;
-            color: #ffffff; /* Light text color */
-            background-color: #1e1e1e;
-            margin-bottom: 0px;
-            margin-top: 0px;
-        }
-
-        .container {
-            display: flex;
-            justify-content: space-between;
-            max-width: 800px;
-        }
-
-        ul {
-            list-style: inside;
-            padding: 0;
-            text-align: center;
-        }
-		
-		a {
-			color: #674bc3;
-		}
-		
-
-        .ltext {
-            font-size: 15px;
-            font-weight: 100;
-            color: #ffffff; /* Light text color */
-            background-color: #1e1e1e;
-            padding: 10px;
-            margin-bottom: 0px;
-            margin-top: -5px;
-        }
-
-        .box {
-            width: calc(50% - 20px);
-            padding: 20px;
-            box-shadow: 0 4px 6px rgba(20, 148, 20, 0.5);
-            transition: box-shadow 0.3s, transform 0.3s;
-            text-align: center;
-            margin-bottom: 20px;
-            height: 300px;
-			background-color: rgb(173, 173, 173, 0.2);
-        }
-
-        .boxlower {
-            width: 800px;
-            margin-top: 10px;
-        }
-
-        .box:hover {
-            box-shadow: 0 8px 12px rgba(33, 236, 243, 0.2);
-            transform: translateY(-5px);
-        }
-
-        .box-title {
-            font-size: 24px;
-            font-weight: 500;
-            color: #ffffff; /* Light text color */
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }
-
-        .box-title img {
-            width: 100px;
-            vertical-align: middle;
-            margin-right: 5px;
-            margin-top: 30px;
-        }
-
-        .box-link {
-            text-decoration: none;
-            color: #ffffff; /* Light text color */
-        }
-
-        .box-content ul {
-            list-style-type: none;
-            padding: 0;
-        }
-		
-        .logobox-content ul {
-            list-style-type: none;
-            padding: 0;
-			margin-top: 20;
-        }
-
-        .box-content li {
-            margin-bottom: 10px;
-			color: #ffffff;
-        }
-		
-    </style>
+  <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fgutep</title>
+  <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
-    <div class="logo">
-        <img src="favicon.ico" width="128" height="128" alt="Circle Image">
-    </div>
+  <header>
+    
+    <h1> Felipe Gutiérrez Apráez</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#Additional">Additional</a></li>
+      </ul>
+    </nav>
+  </header>
 
-    <div class="header">
-        <div class="name">Felipe Gutiérrez</div>
-    </div>
-    <div class="container">
-        <div class="box">
-            <div class="box-title">About me</div>
-            <div class="box-content">Electronics Engineering Student @ Universidad de los Andes, Bogotá. Master of FDM 3D
-                printing and a newbie to programming.</div>
-        </div>
-        <div class="box">
-            <a href="https://github.com/fgutep" class="box-link">
-                <div class="box-title">
-                    My Github
-                    <img src="github-mark-white.svg" alt="GitHub Logo" >
-                </div>
-            </a>
-        </div>
-        <div class="box">
-            <div class="box-title">Currently working on</div>
-            <div class="box-content">
-                <ul>
-                    <li><a href="https://github.com/fgutep/fgutep.xyz/">Automating Uploads to this site.</a></li>
-                    <li><a href="#">Learning JavaScript Web App dev.</a></li>
-                    <li><a href="#">Updating and Uploading my notes.</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="box">
-    <a href="https://discordapp.com/users/578063184313974814" class="box-link">
-        <div class="box-title">
-            Contact me
-                <img src="discord-mark-white.svg" alt="Discord Logo">
-        </div>
-    </a>
-	    <div class="logobox-content">Find me on Discord as Fgutep.</div>
-</div>
-</div>
 
-    <h2>Domains branching of this site and their purpose</h2>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I'm a second year student of electronic engineering at Universidad de los Andes. I work as a member of the UniAndes IEEE Branch of RAS 
+        (Robotics and Automation Society) on PCB design and Mechanical design for our Sumo and other robots.  
+    </p>
+    <p>
+        My own projects:
+        I've been working for more than 4 years with 3D printers already,
+        and i'm planning on currrently re-releasing a revised version to the first 3D printer I ever made as the "MetalHunk".
+        Additonaly I'm working in the automation of inventory tracking and access control for RAS as a self-project.
+    </p> 
+    <p>
+        My skills: Python, and learning both JavaScript and web development, although new to it (as you can already see ;)). 
+    </p>
+  </section>
 
-    <div class="boxlower">
-        <ul>
-            <li><a href="https://linktree.fgutep.xyz" target="_blank">linktree.fgutep.xyz</a></li>
-            <div class="ltext"> Link tree for mobile. Reserved for future use.</div>
-            <li><a href="https://projects.fgutep.xyz" target="_blank">projects.fgutep.xyz</a></li>
-            <div class="ltext"> Webpage for showcasing my projects (Work in progress).</div>
-            <li><a href="https://redes.fgutep.xyz" target="_blank">redes.fgutep.xyz</a></li>
-            <div class="ltext"> A basic HTTP site for capturing HTTP WireShark data, often used in cs networking
-                classes.</div>
-            <li><a href="https://tools.fgutep.xyz" target="_blank">tools.fgutep.xyz</a></li>
-            <div class="ltext"> Tools developed for various purposes, updated in part from this same repo and other
-                repos.</div>
-        </ul>
-    </div>
+  <section id="projects">
+    <h2>Some of my projects:</h2>
+    <ul>
+      <li>RAS mechanical and PCB developments</li>
+      <li>The "MetalHunk" 3D printer (coming soon)</li>
+      <li>A basic python WooCommerce product scraper</li>
+      <li>Custom made tools I've needed and thought I'd share</li>
+    </ul>
+    <p>For coding projects, visit my Github</p>
+    <a href="https://github.com/fgutep"><img src="github-mark-white.svg" alt="Discord logo" width="50px" height="50px" > </a> 
 
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Get in contact with me through Discord:</p>
+    <a href="https://discordapp.com/users/youruserid"><img src="discord-mark-white.svg" alt="Discord logo" width="80px" height="80px"></a>
+    <p>Or via my university email: <a href="f.gutierreza@uniandes.edu.co"> f.gutierreza@uniandes.edu.co</a></p>
+  </section>
+
+  <section id="Additional">
+    <h2>Additional domain-related tools</h2>
+    <li><a href="http://notes.fgutep.xyz">notes.fgutep.xyz</a> - Where I share some of my university class notes and tip-sheets</li>
+    <li><a href="http://redes.fgutep.xyz">notes.fgutep.xyz</a> - Which <b>isn't</b> httpS and means you can capture it for your CS networking classes in wireshark...etc</li>
+
+  </section>
+
+
+  <footer>
+    <p>&copy Felipe Gutiérrez Apráez 2024</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
-
 </html>
