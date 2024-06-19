@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Fgutep.xyz</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content on Fgutep.xyz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Felipe Gutiérrez A</copyright>
+        <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;h2 id=&#34;about-this-site&#34;&gt;About this site:
+&lt;/h2&gt;&lt;p&gt;This is my personal webpage, here I post ocasionally about my whereabouts in projects and other things I find interesting. While this could be a &amp;ldquo;name, skills, please hire me, social, contact me&amp;rdquo; personal webpage I find it best to just post as much of what I do as I possibly can so that you can get to really know me and my projects and &lt;em&gt;practical&lt;/em&gt; skills. Welcome aboard.&lt;/p&gt;
+&lt;h2 id=&#34;about-me--sobre-mí&#34;&gt;About me / Sobre mí:
+&lt;/h2&gt;&lt;h3 id=&#34;english&#34;&gt;English
+&lt;/h3&gt;&lt;p&gt;Second Year Student of electronics engineering at Universidad de los Andes, passionate about making and experimenting with all sorts of new technologies. I’ve been working, making, fixing and dealing with 3D printers five years already, which is my biggest particular expertise at the moment. Recently I’ve been working on different robotics projects, learning how to program in an object-oriented way ESP32 devBoards and ESP-powered projects and how to design, route and ready for production custom printed circuit boards for both particular projects and competitive robotics.&lt;/p&gt;
+&lt;p&gt;I’m an active member of the IEEE student branch of Robotics and Automation Society (RAS). Where this semester I’ve been working mostly on mechanical design of components for our UAV (Wave) and for electronics and PCB design for the line follower Robot. These contributions may be found &lt;a class=&#34;link&#34; href=&#34;https://github.com/RASuniandes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;in the RAS GitHub repository.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lastly, I have my own projects. While the time I have in order to document and post about them in here is limited I am soon opening a YouTube channel where you may watch some of them. Projects will feature The Metal Hunk 3D printer, my ideas and lots of small projects with various electronic components (Such my take on the 7-Segment Clock), some mechanical designs I made both for me (Such as the PulleyLamp) and some designs I’ve made for RAS as well as some tutorials and helpful material I’ll be posting on topics such as mechanical design (Fusion 360), Digital Electronics and Programming.&lt;/p&gt;
+&lt;h3 id=&#34;spanish&#34;&gt;Spanish:
+&lt;/h3&gt;&lt;p&gt;Estudiante de segundo año de ingeniería electrónica en la Universidad de los Andes, apasionado por crear y experimentar con todo tipo de nuevas tecnologías. He estado trabajando, fabricando, reparando y lidiando con impresoras 3D durante cinco años, lo cual es mi mayor especialidad en este momento. Recientemente he estado trabajando en diferentes proyectos de robótica, aprendiendo a programar de manera orientada a objetos en las placas de desarrollo ESP32 y proyectos impulsados por ESP, y a diseñar, enrutar y preparar para la producción circuitos impresos personalizados tanto para proyectos particulares como para robótica competitiva.&lt;/p&gt;
+&lt;p&gt;Soy un miembro activo de la rama estudiantil del IEEE de la Sociedad de Robótica y Automatización (RAS). Este semestre he estado trabajando principalmente en el diseño mecánico de componentes para nuestro UAV (Wave) y en el diseño de electrónica y PCB para el robot seguidor de líneas. &lt;a class=&#34;link&#34; href=&#34;%28https://github.com/RASuniandes%29&#34; &gt;Estas contribuciones se pueden encontrar en el repositorio de GitHub de RAS.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Por último, tengo mis propios proyectos. Aunque el tiempo que tengo para documentarlos y publicarlos aquí es limitado, pronto abriré un canal de YouTube donde podrán ver algunos de ellos. Los proyectos presentarán la impresora 3D The Metal Hunk, mis ideas y muchos pequeños proyectos con varios componentes electrónicos (como mi versión del reloj de 7 segmentos), algunos diseños mecánicos que he hecho tanto para mí (como la PulleyLamp) y algunos diseños que he hecho para RAS, así como algunos tutoriales y material útil que publicaré sobre temas como diseño mecánico (Fusion 360), electrónica digital y programación.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact:
+&lt;/h2&gt;&lt;p&gt;Feel free to reach out through Discord or email:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discord: fgutep&lt;/li&gt;
+&lt;li&gt;Email (Straight To My Inbox): &lt;a class=&#34;link&#34; href=&#34;mailto:Felipe@fgutep.xyz&#34; &gt;Felipe@fgutep.xyz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email (University): &lt;a class=&#34;link&#34; href=&#34;mailto:f.gutierreza@uniandes.edu.co&#34; &gt;f.gutierreza@uniandes.edu.co&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: fgutep&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>YouTube</title>
+        <link>http://localhost:1313/yt/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/yt/</guid>
+        <description>&lt;h1 id=&#34;youtube&#34;&gt;YouTube
+&lt;/h1&gt;&lt;p&gt;I own and produce content in two YouTube channels. Both started during the 2024 summer break  and I try to upload to them every time it&amp;rsquo;s possible for me. It&amp;rsquo;s worth noting that while both of these Channels are Spanish-speaking this information is published originally in English as it&amp;rsquo;s a more accessible language for business demographics (while the channels are focused on the common individual or student that speaks Spanish natively).&lt;/p&gt;
+&lt;h2 id=&#34;fguteping&#34;&gt;Fguteping
+&lt;/h2&gt;&lt;p&gt;A channel dedicated to my own projects, small and large. I try to post every time I make a passion project, or to update on larger developments. For now, it&amp;rsquo;s a pretty small channel, I have yet to edit and upload more videos, it&amp;rsquo;s obviously time consuming to record, edit and publish minimum viable videos to it, but I do every time I get the chance.  I think having this is cool, not only to share my things to the world (although I&amp;rsquo;ve always wanted to upload to YouTube since I first found out about it) but to also keep a repository to my more tangible projects, to everything that can&amp;rsquo;t be accurately stored in GitHub such as the emotions that can be conveyed through voice and video, and the sound of filing a misfit on a design.&lt;/p&gt;
+&lt;p&gt;While I try to keep it mostly medium to high quality in terms of cleanliness and how polished it&amp;rsquo;s videos are, I do not intend to restrict myself to upload something if I don&amp;rsquo;t have the time to do so. Sometimes we make cool stuff in classes, or in projects, and with the due dates to these nearing every time more closely I want to document and share it anyway, without having to stress about multiple hours of editing.&lt;/p&gt;
+&lt;p&gt;I share this as I want you to understand the spirit in which I make these videos. That being said take a look (here)[https://www.youtube.com]&lt;/p&gt;
+&lt;h2 id=&#34;repasopaso&#34;&gt;RepasoPaso
+&lt;/h2&gt;&lt;p&gt;This is my Spanish teaching YouTube channel. The topics I teach are topics that I considered myself (and often proved) having a good grasp of. While I do not intend to cover as many topics as possible, nor to cover full Syllabus of classes or learning series (For that I would recommend other YouTube channels such as &amp;ldquo;The Organic Chemistry Teacher&amp;rdquo; that covers a variety of different programs in full depth). I do intend to cover topics that are &lt;em&gt;tricky&lt;/em&gt; and &lt;em&gt;often over-complicated in their explanation&lt;/em&gt;. This is a channel for the average-Joe of a CS/EE Engineering Student, the topics I cover I cover in a quick, easy to understand and very visual way. I teach these topics as I &lt;em&gt;would&amp;rsquo;ve wanted&lt;/em&gt; for these to be taught to me.&lt;/p&gt;
+&lt;p&gt;In terms of presentation I&amp;rsquo;ve made up my mind on this channel: I prefer Quantity over prettiness. While I must and will continue to guarantee that my videos are useful, well taught, with decent audio and video quality and (mathematically or semantically) correct; I will post a video that falls out of the norm or style if that means it can help. I will have videos with a virtual blackboard, with me on a classroom on a whiteboard, with my hands on paper, on a multimeter. I want to get it out there if I can.&lt;/p&gt;
+&lt;p&gt;The spirit of this particular channel is to show that some topics that are often complicated to grasp at the start or that seem incredibly dense by the way they are taught can be actually be understood and used in an utilitarian, effective manner. And for topics that are not that complicated, but that are current or foundational to other areas of engineering it seeks to provide a fresh, fast and straight to the point perspective in them.&lt;/p&gt;
+&lt;p&gt;If you want to take a look, or learn something new, (please feel free to check out RepasoPaso.)[https://www.youtube.com/@RepasoPaso]&lt;/p&gt;
+&lt;h2 id=&#34;other-channels&#34;&gt;Other Channels:
+&lt;/h2&gt;&lt;p&gt;I participate in other channels publishing videos there as well, such as the training video series for Fusion 360 mechanical and part design over at (RAS Uniandes YouTube channel)[https://www.youtube.com/@RasUniandes]. While these are minor appearances they can be really useful for someone looking to learn a quick topic in a pinch or for training people within these organizations.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Metal Hunk 3D Printer</title>
+        <link>http://localhost:1313/p/metal-hunk-3d-printer/</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/metal-hunk-3d-printer/</guid>
+        <description>&lt;h1 id=&#34;the-metalfunk-3d-printer&#34;&gt;The metalFunk 3D Printer
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;When a one year project is solved years in the furture&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;the-evolution-of-metalfunk&#34;&gt;The Evolution of metalFunk
+&lt;/h2&gt;&lt;p&gt;The metalFunk 3D printer has undergone several name changes since its inception. It started as &lt;strong&gt;A3D-One&lt;/strong&gt; when I was 16, reflecting my early ambition and enthusiasm. Later, it became &lt;strong&gt;MetalHunk&lt;/strong&gt; due to its robust, full-metal frame—its most impressive feature. Now, it’s called &lt;strong&gt;MetalFunk&lt;/strong&gt;, a nod to the challenges and quirks that have come with building it, while also embracing a funky, more light-hearted spirit.&lt;/p&gt;
+&lt;h2 id=&#34;the-begining&#34;&gt;The Begining
+&lt;/h2&gt;&lt;p&gt;Designing this 3D printer has been an enlightening experience, though not without its frustrations. What began as a teenage project has turned into a long-term endeavor, teaching me valuable lessons in engineering and perseverance. Here’s a look at what this journey has entailed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Investment&lt;/strong&gt;: Approximately $400 initially, plus an additional $100 for modifications and troubleshooting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges&lt;/strong&gt;: Numerous, including complex technical issues and the learning curve of working with limited knowledge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unique Goal&lt;/strong&gt;: To create a 3D printer that no one else in the world has—a unique testament to my dedication and creativity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-specs-and-features&#34;&gt;Key Specs and Features
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frame&lt;/strong&gt;: Built entirely from 2040 and 2020 T-Slot aluminum extrusion profiles, making it incredibly sturdy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extruders&lt;/strong&gt;: Includes a BMG Bowden extruder and a custom slim extruder for the Ender/CR Hotend.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electronics&lt;/strong&gt;: Currently runs on the classic Ramps 1.4 with an Arduino Mega, with plans to upgrade to either the Ender 3 - 4.2.7 Non-Silent Board or the BIGTREETECH SKR Mini E3 V3.0.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Firmware&lt;/strong&gt;: Utilizes Marlin 2.0.1, featuring a double Z-axis for enhanced stability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Improvements&lt;/strong&gt;: Plans to incorporate V-Roller based kinematics and other modern features.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;current-status-as-of-march-2024&#34;&gt;Current Status (As of March 2024)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frame&lt;/strong&gt;: Solid and usable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Movement&lt;/strong&gt;: Operational, though previously it wasn’t.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety&lt;/strong&gt;: No longer prone to catching fire, a significant improvement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print Quality&lt;/strong&gt;: Currently subpar, with major issues including layer skipping and motor overheating.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;development-challenges&#34;&gt;Development Challenges
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Layer Skipping&lt;/strong&gt;: The printer struggles with layer skipping on prints longer than 40 minutes, rendering them unusable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Motor Currents&lt;/strong&gt;: The Nema 17 motors (17HS3401) overheat at their rated 1.2 amps, requiring careful current management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;uploaded-cad-file&#34;&gt;Uploaded CAD File
+&lt;/h2&gt;&lt;p&gt;The CAD file includes the metal frame and motors/endstops. All plastic components need to be redesigned from scratch.&lt;/p&gt;
+&lt;h2 id=&#34;goals-and-to-do-list&#34;&gt;Goals and To-Do List
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Redesign and Reprint Plastic Parts&lt;/strong&gt;: Every piece of 3D printed material needs to be updated from the Frankenstein adaptation I initially created.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upgrade the Control Board&lt;/strong&gt;: Replace the outdated Ramps 1.4 with a more reliable and modern board.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Achieve Reliable Printing&lt;/strong&gt;: With a new board and redesigned parts, consistent and reliable printing should be attainable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhance the Extruder&lt;/strong&gt;: Improve aesthetics, add a cooling fan, lighting, and better cable management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improve Aesthetics&lt;/strong&gt;: Give the printer a more polished and professional look, infusing it with personality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incorporate V-Roller Kinematics&lt;/strong&gt;: Update the motion system to modern standards, eliminating the use of smooth rods and linear bearings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Innovations&lt;/strong&gt;: Aim for high speeds, quiet operation, wireless connectivity, and other advanced features.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;timeline-and-future-outlook&#34;&gt;Timeline and Future Outlook
+&lt;/h2&gt;&lt;p&gt;I aim to achieve at least objective #4 by Summer 2024. However, as a busy Electronics Engineering and Computer Science student, I’m not imposing a strict deadline. If by August 2024, the printer isn’t reliably printing, I may consider scrapping the project due to unsustainable value.&lt;/p&gt;
+&lt;h2 id=&#34;man-hours-logged&#34;&gt;Man Hours Logged
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2019-2020&lt;/strong&gt;: 50+ hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dec 2023 - Jan 2024&lt;/strong&gt;: 20+ hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;March 2024 (Holy Week)&lt;/strong&gt;: 10+ hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Total&lt;/strong&gt;: ~80+ hours&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more updates on the metalFu(n)k 3D printer as I continue to refine and improve this unique creation.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/p/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/p/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

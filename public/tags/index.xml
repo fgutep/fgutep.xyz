@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Fgutep.xyz</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Recent content in Tags on Fgutep.xyz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Felipe Gutiérrez A</copyright>
+        <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fguteping</title>
+        <link>http://localhost:1313/tags/fguteping/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/fguteping/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>RepasoPaso</title>
+        <link>http://localhost:1313/tags/repasopaso/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/repasopaso/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>3DPrinting</title>
+        <link>http://localhost:1313/tags/3dprinting/</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/3dprinting/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Electronics</title>
+        <link>http://localhost:1313/tags/electronics/</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/electronics/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Mechanical</title>
+        <link>http://localhost:1313/tags/mechanical/</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/mechanical/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>About on Fgutep.xyz</title>
+        <link>http://localhost:1313/categories/about/</link>
+        <description>Recent content in About on Fgutep.xyz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Felipe Gutiérrez A</copyright>
+        <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;h2 id=&#34;about-this-site&#34;&gt;About this site:
+&lt;/h2&gt;&lt;p&gt;This is my personal webpage, here I post ocasionally about my whereabouts in projects and other things I find interesting. While this could be a &amp;ldquo;name, skills, please hire me, social, contact me&amp;rdquo; personal webpage I find it best to just post as much of what I do as I possibly can so that you can get to really know me and my projects and &lt;em&gt;practical&lt;/em&gt; skills. Welcome aboard.&lt;/p&gt;
+&lt;h2 id=&#34;about-me--sobre-mí&#34;&gt;About me / Sobre mí:
+&lt;/h2&gt;&lt;h3 id=&#34;english&#34;&gt;English
+&lt;/h3&gt;&lt;p&gt;Second Year Student of electronics engineering at Universidad de los Andes, passionate about making and experimenting with all sorts of new technologies. I’ve been working, making, fixing and dealing with 3D printers five years already, which is my biggest particular expertise at the moment. Recently I’ve been working on different robotics projects, learning how to program in an object-oriented way ESP32 devBoards and ESP-powered projects and how to design, route and ready for production custom printed circuit boards for both particular projects and competitive robotics.&lt;/p&gt;
+&lt;p&gt;I’m an active member of the IEEE student branch of Robotics and Automation Society (RAS). Where this semester I’ve been working mostly on mechanical design of components for our UAV (Wave) and for electronics and PCB design for the line follower Robot. These contributions may be found &lt;a class=&#34;link&#34; href=&#34;https://github.com/RASuniandes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;in the RAS GitHub repository.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lastly, I have my own projects. While the time I have in order to document and post about them in here is limited I am soon opening a YouTube channel where you may watch some of them. Projects will feature The Metal Hunk 3D printer, my ideas and lots of small projects with various electronic components (Such my take on the 7-Segment Clock), some mechanical designs I made both for me (Such as the PulleyLamp) and some designs I’ve made for RAS as well as some tutorials and helpful material I’ll be posting on topics such as mechanical design (Fusion 360), Digital Electronics and Programming.&lt;/p&gt;
+&lt;h3 id=&#34;spanish&#34;&gt;Spanish:
+&lt;/h3&gt;&lt;p&gt;Estudiante de segundo año de ingeniería electrónica en la Universidad de los Andes, apasionado por crear y experimentar con todo tipo de nuevas tecnologías. He estado trabajando, fabricando, reparando y lidiando con impresoras 3D durante cinco años, lo cual es mi mayor especialidad en este momento. Recientemente he estado trabajando en diferentes proyectos de robótica, aprendiendo a programar de manera orientada a objetos en las placas de desarrollo ESP32 y proyectos impulsados por ESP, y a diseñar, enrutar y preparar para la producción circuitos impresos personalizados tanto para proyectos particulares como para robótica competitiva.&lt;/p&gt;
+&lt;p&gt;Soy un miembro activo de la rama estudiantil del IEEE de la Sociedad de Robótica y Automatización (RAS). Este semestre he estado trabajando principalmente en el diseño mecánico de componentes para nuestro UAV (Wave) y en el diseño de electrónica y PCB para el robot seguidor de líneas. &lt;a class=&#34;link&#34; href=&#34;%28https://github.com/RASuniandes%29&#34; &gt;Estas contribuciones se pueden encontrar en el repositorio de GitHub de RAS.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Por último, tengo mis propios proyectos. Aunque el tiempo que tengo para documentarlos y publicarlos aquí es limitado, pronto abriré un canal de YouTube donde podrán ver algunos de ellos. Los proyectos presentarán la impresora 3D The Metal Hunk, mis ideas y muchos pequeños proyectos con varios componentes electrónicos (como mi versión del reloj de 7 segmentos), algunos diseños mecánicos que he hecho tanto para mí (como la PulleyLamp) y algunos diseños que he hecho para RAS, así como algunos tutoriales y material útil que publicaré sobre temas como diseño mecánico (Fusion 360), electrónica digital y programación.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact:
+&lt;/h2&gt;&lt;p&gt;Feel free to reach out through Discord or email:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discord: fgutep&lt;/li&gt;
+&lt;li&gt;Email (Straight To My Inbox): &lt;a class=&#34;link&#34; href=&#34;mailto:Felipe@fgutep.xyz&#34; &gt;Felipe@fgutep.xyz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email (University): &lt;a class=&#34;link&#34; href=&#34;mailto:f.gutierreza@uniandes.edu.co&#34; &gt;f.gutierreza@uniandes.edu.co&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: fgutep&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

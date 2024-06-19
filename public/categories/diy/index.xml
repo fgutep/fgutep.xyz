@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>DiY on Fgutep.xyz</title>
+        <link>http://localhost:1313/categories/diy/</link>
+        <description>Recent content in DiY on Fgutep.xyz</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Felipe Gutiérrez A</copyright>
+        <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/diy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Metal Hunk 3D Printer</title>
+        <link>http://localhost:1313/p/metal-hunk-3d-printer/</link>
+        <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/metal-hunk-3d-printer/</guid>
+        <description>&lt;h1 id=&#34;the-metalfunk-3d-printer&#34;&gt;The metalFunk 3D Printer
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;When a one year project is solved years in the furture&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;the-evolution-of-metalfunk&#34;&gt;The Evolution of metalFunk
+&lt;/h2&gt;&lt;p&gt;The metalFunk 3D printer has undergone several name changes since its inception. It started as &lt;strong&gt;A3D-One&lt;/strong&gt; when I was 16, reflecting my early ambition and enthusiasm. Later, it became &lt;strong&gt;MetalHunk&lt;/strong&gt; due to its robust, full-metal frame—its most impressive feature. Now, it’s called &lt;strong&gt;MetalFunk&lt;/strong&gt;, a nod to the challenges and quirks that have come with building it, while also embracing a funky, more light-hearted spirit.&lt;/p&gt;
+&lt;h2 id=&#34;the-begining&#34;&gt;The Begining
+&lt;/h2&gt;&lt;p&gt;Designing this 3D printer has been an enlightening experience, though not without its frustrations. What began as a teenage project has turned into a long-term endeavor, teaching me valuable lessons in engineering and perseverance. Here’s a look at what this journey has entailed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Investment&lt;/strong&gt;: Approximately $400 initially, plus an additional $100 for modifications and troubleshooting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges&lt;/strong&gt;: Numerous, including complex technical issues and the learning curve of working with limited knowledge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unique Goal&lt;/strong&gt;: To create a 3D printer that no one else in the world has—a unique testament to my dedication and creativity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-specs-and-features&#34;&gt;Key Specs and Features
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frame&lt;/strong&gt;: Built entirely from 2040 and 2020 T-Slot aluminum extrusion profiles, making it incredibly sturdy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extruders&lt;/strong&gt;: Includes a BMG Bowden extruder and a custom slim extruder for the Ender/CR Hotend.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electronics&lt;/strong&gt;: Currently runs on the classic Ramps 1.4 with an Arduino Mega, with plans to upgrade to either the Ender 3 - 4.2.7 Non-Silent Board or the BIGTREETECH SKR Mini E3 V3.0.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Firmware&lt;/strong&gt;: Utilizes Marlin 2.0.1, featuring a double Z-axis for enhanced stability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Improvements&lt;/strong&gt;: Plans to incorporate V-Roller based kinematics and other modern features.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;current-status-as-of-march-2024&#34;&gt;Current Status (As of March 2024)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frame&lt;/strong&gt;: Solid and usable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Movement&lt;/strong&gt;: Operational, though previously it wasn’t.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety&lt;/strong&gt;: No longer prone to catching fire, a significant improvement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Print Quality&lt;/strong&gt;: Currently subpar, with major issues including layer skipping and motor overheating.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;development-challenges&#34;&gt;Development Challenges
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Layer Skipping&lt;/strong&gt;: The printer struggles with layer skipping on prints longer than 40 minutes, rendering them unusable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Motor Currents&lt;/strong&gt;: The Nema 17 motors (17HS3401) overheat at their rated 1.2 amps, requiring careful current management.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;uploaded-cad-file&#34;&gt;Uploaded CAD File
+&lt;/h2&gt;&lt;p&gt;The CAD file includes the metal frame and motors/endstops. All plastic components need to be redesigned from scratch.&lt;/p&gt;
+&lt;h2 id=&#34;goals-and-to-do-list&#34;&gt;Goals and To-Do List
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Redesign and Reprint Plastic Parts&lt;/strong&gt;: Every piece of 3D printed material needs to be updated from the Frankenstein adaptation I initially created.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upgrade the Control Board&lt;/strong&gt;: Replace the outdated Ramps 1.4 with a more reliable and modern board.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Achieve Reliable Printing&lt;/strong&gt;: With a new board and redesigned parts, consistent and reliable printing should be attainable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhance the Extruder&lt;/strong&gt;: Improve aesthetics, add a cooling fan, lighting, and better cable management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improve Aesthetics&lt;/strong&gt;: Give the printer a more polished and professional look, infusing it with personality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incorporate V-Roller Kinematics&lt;/strong&gt;: Update the motion system to modern standards, eliminating the use of smooth rods and linear bearings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future Innovations&lt;/strong&gt;: Aim for high speeds, quiet operation, wireless connectivity, and other advanced features.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;timeline-and-future-outlook&#34;&gt;Timeline and Future Outlook
+&lt;/h2&gt;&lt;p&gt;I aim to achieve at least objective #4 by Summer 2024. However, as a busy Electronics Engineering and Computer Science student, I’m not imposing a strict deadline. If by August 2024, the printer isn’t reliably printing, I may consider scrapping the project due to unsustainable value.&lt;/p&gt;
+&lt;h2 id=&#34;man-hours-logged&#34;&gt;Man Hours Logged
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2019-2020&lt;/strong&gt;: 50+ hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dec 2023 - Jan 2024&lt;/strong&gt;: 20+ hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;March 2024 (Holy Week)&lt;/strong&gt;: 10+ hours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Total&lt;/strong&gt;: ~80+ hours&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more updates on the metalFu(n)k 3D printer as I continue to refine and improve this unique creation.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
